@@ -1,0 +1,1 @@
+<div>ЭТО FOOTER</div>

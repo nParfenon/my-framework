@@ -1,0 +1,1128 @@
+Fault:31-03-2020 14:50:48-Опаньки... Неверное имя файла для подключения! - core/base/model/BaseModel
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:31-03-2020 14:52:41-Опаньки... Неверное имя файла для подключения! - core/base/model/BaseModel
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:31-03-2020 14:53:15-Опаньки... Неверное имя файла для подключения! - core/base/model/BaseModel
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:01-04-2020 13:48:38-Опаньки... Неверное имя файла для подключения! - core/user/controllers/IkkdexController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:01-04-2020 13:48:38-Class core\user\controllers\IkkdexController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:25-04-2020 17:59:19-Опаньки... Неверное имя файла для подключения! - core/user/controllers/AdmiController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:25-04-2020 17:59:19-Class core\user\controllers\AdmiController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:26-04-2020 18:40:31-Опаньки... Неверное имя файла для подключения! - core/admin/controllers/ShowController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:26-04-2020 18:40:31-Class core\admin\controllers\ShowController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:27-04-2020 18:05:31-Опаньки... Неверное имя файла для подключения! - core/user/controllers/DirController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:27-04-2020 18:05:31-Class core\user\controllers\DirController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:27-04-2020 18:05:37-Опаньки... Неверное имя файла для подключения! - core/user/controllers/DirController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:27-04-2020 18:05:37-Class core\user\controllers\DirController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:27-04-2020 18:05:43-Опаньки... Неверное имя файла для подключения! - core/user/controllers/DirController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:27-04-2020 18:05:43-Class core\user\controllers\DirController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:27-04-2020 18:05:46-Опаньки... Неверное имя файла для подключения! - core/user/controllers/DirController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 32
+
+Fault:27-04-2020 18:05:46-Class core\user\controllers\DirController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 41
+
+Fault:01-05-2020 15:55:31-Class core\admin\controllers\ShowController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 15:55:51-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:03:17-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:26:42-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:35:52-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:37:14-Отсутствует шаблон - core/admin/view/show.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:37:38-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:38:38-Отсутствует шаблон - core/admin/view/show
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:39:50-Отсутствует шаблон - core/admin/views/layout/default.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:40:56-Отсутствует шаблон - core/admin/views/layout/default.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:41:27-Отсутствует шаблон - core/admin/views/layout/default.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:42:34-Отсутствует шаблон - core/admin/views/layout/default.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 16:44:57-Отсутствует шаблон - core/admin/views/layout/default.php
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 95
+
+Fault:01-05-2020 17:49:04-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:04-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:04-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:04-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 17:49:05-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 17:49:05-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:24-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:24-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:33-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:33-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:33-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:33-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:33-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:33-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:34-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:34-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:34-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:34-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:34-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:34-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:34-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:34-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:02:34-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:02:34-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:49-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:49-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:49-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:49-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:49-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:49-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:49-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:49-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:49-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:50-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:11:50-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:11:50-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:12:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:12:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:01-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:01-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:01-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:01-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:01-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:01-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:01-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:01-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:01-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:01-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:01-05-2020 18:17:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:01-05-2020 18:17:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:02-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:02-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 15:43:07-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 15:43:07-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:17-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:17-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:18-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:18-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:18-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:18-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:18-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:18-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:18-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:18-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:46-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:46-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:46-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:46-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:46-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:46-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:01:46-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:01:46-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:08:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:08:11-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:08:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:08:11-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:08:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:08:11-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:08:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:08:11-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:09:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:09:21-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:09:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:09:21-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:09:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:09:21-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:09:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:09:21-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:11:26-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:11:26-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:11:26-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:11:26-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:11:26-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:11:26-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:11-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:11-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:11-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:11-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:45:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:45:23-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:08-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:08-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:09-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:09-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:09-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:09-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:22-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:22-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:46:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:46:23-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:47:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:47:30-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:47:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:47:30-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:47:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:47:30-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:47:55-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:47:55-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:47:55-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:47:55-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:55:52-Опаньки... Неверное имя файла для подключения! - core/user/controllers/TemplateController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:55:52-Class core\user\controllers\TemplateController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:55:52-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:55:52-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 16:58:23-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 16:58:23-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:04:32-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:04:32-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:06:26-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:06:26-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:06:26-Опаньки... Неверное имя файла для подключения! - core/user/controllers/ImagesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:06:26-Class core\user\controllers\ImagesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:09:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:09:30-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:09:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:09:30-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:09:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:09:30-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:13:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:13:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:13:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:13:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:13:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:13:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:14:55-Опаньки... Неверное имя файла для подключения! - core/admin/controllers/AdminController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:14:55-Class core\admin\controllers\AdminController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:15:32-Опаньки... Неверное имя файла для подключения! - core/admin/controllers/AdminController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:15:32-Class core\admin\controllers\AdminController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:47-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:47-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:48-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:48-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:48-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:48-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:54-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:54-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:54-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:54-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:16:54-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:16:54-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:18:27-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:18:27-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:18:27-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:18:27-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:18:27-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:18:27-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:14-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:14-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:14-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:14-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:14-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:14-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:19:16-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:19:16-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:21-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:21-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:21-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:21-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:29-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:29-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:30-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:06-05-2020 17:21:30-Опаньки... Неверное имя файла для подключения! - core/user/controllers/UserfilesController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 33
+
+Fault:06-05-2020 17:21:30-Class core\user\controllers\UserfilesController does not exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+

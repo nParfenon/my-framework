@@ -1,0 +1,256 @@
+Fault:31-03-2020 15:55:31-Ошибка в SQL запросе: SET * FROM articles-1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM articles' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:11-04-2020 16:16:30-Ошибка в SQL запросе: SELECT articles.id,articles.name FROM articles  Array ORDER BY articles.fio ASC,articles.name DESC,articles.surname DESC 1-2006 MySQL server has gone away
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:11-04-2020 16:34:00-Ошибка в SQL запросе: SELECT articles.id,articles.name FROM articles  WHERE articles.name IN ('masha') AND articles.surname LIKE 'sergeevna%' OR articles.fio<>'andrey' OR articles.car='Porshe' OR articles.color NOT IN ('red','blue','black')  ORDER BY articles.fio ASC,articles.name DESC,articles.surname DESC 1-2006 MySQL server has gone away
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:11-04-2020 16:37:24-Ошибка в SQL запросе: SELECT articles.id,articles.name FROM articles  WHERE articles.name IN ('masha') AND articles.surname NOT IN (SELECT name FROM articles WHERE id = 1)  ORDER BY articles.fio ASC,articles.name DESC,articles.surname DESC 1-2006 MySQL server has gone away
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:11-04-2020 16:45:11-Ошибка в SQL запросе: SELECT articles.id,articles.name FROM articles  WHERE articles.name IN ('masha') AND articles.surname<>(SELECT name FROM articles WHERE id = 1)  ORDER BY articles.fio ASC,articles.name DESC,articles.surname DESC LIMIT 1-1054 Unknown column 'articles.surname' in 'where clause'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:11-04-2020 17:05:13-Ошибка в SQL запросе: SELECT articles.id,articles.name FROM articles  WHERE articles.name='Ma'sha'  ORDER BY articles.name DESC LIMIT 1-1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'sha'  ORDER BY articles.name DESC LIMIT 1' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:14-04-2020 17:01:50-Ошибка в SQL запросе: INSERT INTO articles (name,content,gallery,img,) VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg',)-1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg',)' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:14-04-2020 17:03:22-Ошибка в SQL запросе: INSERT INTO articles (name,content,gallery,img,) VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg',)-1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg',)' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:14-04-2020 17:03:57-Ошибка в SQL запросе: INSERT INTO articles (name,content,gallery,img) VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg')-1054 Unknown column 'gallery' in 'field list'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:14-04-2020 17:05:09-Ошибка в SQL запросе: INSERT INTO articles (name,content,gallery,img) VALUES ('Olga','hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg')-1054 Unknown column 'gallery' in 'field list'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:14-04-2020 17:08:51-Ошибка в SQL запросе: INSERT INTO articles (content,gallery_img,img) VALUES ('hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg')-1364 Field 'name' doesn't have a default value
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:14-04-2020 19:16:12-Ошибка в SQL запросе: INSERT INTO articles (name,content,gallery_img,img) VALUES (`dfgf`,`hello`,'[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main.jpg')-1054 Unknown column 'dfgf' in 'field list'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:16-04-2020 18:18:13-Ошибка в SQL запросе: UPDATE articles SET id='2',name='Sveta',gallery_img='[\"new_red.jpg\"]',img='main_img.jpg' -1062 Duplicate entry '2' for key 'PRIMARY'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:18-04-2020 19:03:23-Ошибка в SQL запросе: UPDATE teachers SET name= WHERE teachers.id='18' -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE teachers.id='18'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:18-04-2020 20:23:44-Ошибка в SQL запросе: DELETE teachers, stidents FROM teachers LEFT JOIN stidents ON teachers.student_id=stidents.id WHERE teachers.id='6' -1146 Table 'local.stidents' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:18-04-2020 20:24:22-Ошибка в SQL запросе: DELETE teachers, stidents FROM teachers LEFT JOIN stidents ON teachers.student_id=stidents.id WHERE teachers.id='6' -1146 Table 'local.stidents' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 17:28:42-Ошибка в SQL запросе: DELETE teachers, students FROM teachers LEFT JOINstudents ON teachers.student_id=students.id WHERE teachers.id='7' -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOINstudents ON teachers.student_id=students.id WHERE teachers.id='7'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 17:36:46-Ошибка в SQL запросе: DELETE teachers, students FROM teachers LEFT JOIN students ON teachers.student_id=students.student_id WHERE teachers.id='7' -1054 Unknown column 'students.student_id' in 'on clause'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:08:48-Ошибка в SQL запросе: SELECT  FROM teachers  WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers  WHERE teachers.id='8'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:20:16-Ошибка в SQL запросе: SELECT  FROM teachers  WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers  WHERE teachers.id='8'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:20:20-Ошибка в SQL запросе: SELECT  FROM teachers  WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers  WHERE teachers.id='8'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:20:51-Ошибка в SQL запросе: SELECT  FROM teachers  WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers  WHERE teachers.id='8'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:21:05-Ошибка в SQL запросе: SELECT  FROM teachers  WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers  WHERE teachers.id='8'' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:31:25-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:33:08-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:33:11-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:33:14-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='8'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:33:29-Ошибка в SQL запросе: SELECT  FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teache' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:34:08-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:34:14-Ошибка в SQL запросе: SELECT dd FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1054 Unknown column 'dd' in 'field list'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:37:04-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:37:16-Ошибка в SQL запросе: SELECT ff FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1054 Unknown column 'ff' in 'field list'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:37:26-Ошибка в SQL запросе: SELECT **** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE te' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:37:46-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:38:18-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:39:12-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:19-04-2020 18:39:14-Ошибка в SQL запросе: SELECT ** FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teachers.id='7'   -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM teachers LEFT JOIN students ON teachers.student_id=students.id WHERE teac' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 15:57:14-Ошибка подключения к БД: 1049 Unknown database 'local'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 22
+
+Fault:22-04-2020 17:33:27-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:35:00-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:35:22-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:35:40-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:36:57-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:38:35-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:38:45-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:39:59-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:40:41-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:40:47-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:22-04-2020 17:41:18-Ошибка в SQL запросе: SHOW COLUMNS FROM -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:03:57-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:04:10-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:06:19-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:09:30-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:09:50-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:11:36-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -2006 MySQL server has gone away
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:25-04-2020 18:14:26-Ошибка в SQL запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id [,teachers.menu_position A -1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[,teachers.menu_position A' at line 1
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 38
+
+Fault:27-04-2020 19:43:30-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-2006 MySQL server has gone away
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 36
+
+Fault:06-05-2020 16:45:31-Ошибка в SQL запросе: SHOW COLUMNS FROM advantages-1146 Table 'local.advantages' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-05-2020 17:18:29-Ошибка в SQL запросе: SHOW COLUMNS FROM student-1146 Table 'local.student' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-05-2020 17:19:18-Ошибка в SQL запросе: SHOW COLUMNS FROM student-1146 Table 'local.student' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-05-2020 17:21:02-Ошибка в SQL запросе: SHOW COLUMNS FROM student-1146 Table 'local.student' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-05-2020 17:21:12-Ошибка в SQL запросе: SHOW COLUMNS FROM student-1146 Table 'local.student' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:05-01-2022 17:43:50-Ошибка подключения к БД: 1049 Unknown database 'local'
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 19
+
+Fault:05-01-2022 17:54:40-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-1146 Table 'local.teachers' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
