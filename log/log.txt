@@ -1126,3 +1126,27 @@ Fault:06-05-2020 17:21:30-Class core\user\controllers\UserfilesController does n
 file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\BaseController.php
 In line 45
 
+Fault:09-01-2022 13:36:30-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:09-01-2022 14:05:48-Неверное имя файла для подключения! - core/user/controllers/AdminController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 34
+
+Fault:09-01-2022 14:05:57-Неверное имя файла для подключения! - core/user/controllers/AdminsController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 34
+
+Fault:09-01-2022 16:21:05-Неверное имя файла для подключения! - core/user/controllers/ShopController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 34
+
+Fault:09-01-2022 16:21:29-Неверное имя файла для подключения! - core/admin/controllers/AddController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 34
+
+Fault:09-01-2022 17:07:15-Неверное имя файла для подключения! - core/user/controllers/LoginController
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 34
+

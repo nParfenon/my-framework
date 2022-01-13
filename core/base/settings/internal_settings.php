@@ -27,10 +27,11 @@ const USER_CSS_JS = [
 use core\base\exceptions\RouteException;
 
 function autoloadMainClasses($class_name){
+
     $class_name = str_replace('\\','/', $class_name);
 
     if  (!@include $class_name.".php"){
-        throw new RouteException("Опаньки... Неверное имя файла для подключения!"." - ".$class_name);
+        throw new RouteException("Неверное имя файла для подключения!"." - ".$class_name);
     }
 }
 

@@ -52,8 +52,8 @@ class Settings
         "students" => ["name" => "Ученики"]
     ];
 
-    private $templateArr = [
-        "text" => ["name","phone","adress"],
+    private $templateArr = [ // Общие поля
+        "text" => ["name","phone","address"],
         "textarea" => ["content","keywords"]
     ];
 
@@ -67,13 +67,14 @@ class Settings
 
             $property = $class::Get($name);
 
+            if (!$property) $baseProperties[$name] = $this->$name;
+
             if  (is_array($property) && is_array($item)){
 
                 $baseProperties[$name] = $this->arrayMergeRecursive($this->$name,$property);
                 continue;
             }
 
-            if (!$property) $baseProperties[$name] = $this->$name;
         }
         return $baseProperties;
     }

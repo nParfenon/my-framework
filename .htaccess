@@ -1,9 +1,13 @@
+#Отключение экронирования ковычек
 php_flag magic_qoutes_gpc Off
 
+#говорим серверу, в какой кодировке будем отправлять данные
 AddDefaultCharset utf-8
 
+#Только файл с расширением .php
 DirectoryIndex index.php
 
+#Включение
 RewriteEngine on
 
 RewriteCond %{REQUEST_FILENAME} !-f

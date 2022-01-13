@@ -254,3 +254,19 @@ Fault:05-01-2022 17:54:40-Ошибка в SQL запросе: SHOW COLUMNS FROM 
 file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
 In line 35
 
+Fault:06-01-2022 14:40:02-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-1146 Table 'local.teachers' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-01-2022 14:40:05-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-1146 Table 'local.teachers' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:06-01-2022 14:40:12-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-1146 Table 'local.teachers' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+
+Fault:07-01-2022 14:10:12-Ошибка в SQL запросе: SHOW COLUMNS FROM teachers-1146 Table 'local.teachers' doesn't exist
+file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
+In line 35
+

@@ -66,7 +66,7 @@ class RouteController extends BaseController
                     $route = "admin";
                 }
 
-            }//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+            }
 
             else{
                 $hrUrl = $this->routes['user']['hrUrl'];
