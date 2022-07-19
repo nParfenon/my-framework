@@ -1,6 +1,5 @@
 <?php
 
-
 namespace core\base\controllers;
 
 use core\base\exceptions\RouteException;
@@ -14,23 +13,23 @@ class RouteController extends BaseController
 
     private function __construct()
     {
-        $adress_str = $_SERVER['REQUEST_URI']; //получение ссылки (глав. ссылка не в счет)
+        $address_str = $_SERVER['REQUEST_URI']; //получение ссылки (глав. ссылка не в счет)
 
         $path = substr($_SERVER['PHP_SELF'],0, strpos($_SERVER['PHP_SELF'], "index.php"));
 
         if ($path === PATH){
 
-            if (strrpos($adress_str, "/") === strlen($adress_str) - 1 &&
-                strrpos($adress_str, "/") !== strlen(PATH) - 1){ //если в конце ссылки есть знак - "/"
+            if (strrpos($address_str, "/") === strlen($address_str) - 1 &&
+                strrpos($address_str, "/") !== strlen(PATH) - 1){ //если в конце ссылки есть знак - "/"
 
-                $this->redirect(rtrim($adress_str,"/"), 301);
+                $this->redirect(rtrim($address_str,"/"), 301);
             }
 
             $this->routes = Settings::Get("routes");
 
             if (!$this->routes){throw new RouteException("Отсутсвуют маршруты в базовых нстройках", 1);}//если маршруты не были получены
 
-            $url = explode("/", substr($adress_str, strlen(PATH))); //разбиваем строку занося элементы в массив
+            $url = explode("/", substr($address_str, strlen(PATH))); //разбиваем строку занося элементы в массив
 
             if ($url[0] && $url[0] === $this->routes['admin']['alias']){ //если введен /admin в поиск.строку
 

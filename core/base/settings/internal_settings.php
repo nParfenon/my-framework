@@ -5,6 +5,7 @@ defined("VG_ACCESS") or die('User Stop Please');
 const TEMPLATE="templates/default/";//шаблон сайта
 const ADMIN_TEMPLATE = "core/admin/views/";//шаблон админ панели
 const UPLOAD_DIR = "userfiles/";
+const LOG_FOLDER = 'log/';
 
 const COOKIE_VERSION = "1.0";//Версия куки, нужна, чтобы пользователи перелогинились в случае изменения правил/алгоитма сайта
 const CRYPT_KEY = "";//Для шифрования
@@ -16,7 +17,7 @@ const QTY_LINKS = 3;
 
 const ADMIN_CSS_JS = [
     "styles" => ["css/main.css"],
-    "scripts" => []
+    "scripts" => ["js/main.js"],
 ];
 
 const USER_CSS_JS = [

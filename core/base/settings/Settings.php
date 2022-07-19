@@ -32,7 +32,6 @@ class Settings
             "path" => "core/user/controllers/", //namespace :)
             "hrUrl"=> true,
             "routes" => [
-                "site" => "ikkdex/hello/eee"
             ]
         ],
 

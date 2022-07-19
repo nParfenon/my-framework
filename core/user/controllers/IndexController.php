@@ -9,9 +9,9 @@ class IndexController extends BaseController{
     protected $name;
 
     protected function InputData(){
-        exit();
+        $templater = $this->Render(TEMPLATE.'templater');
+        return compact('templater');
     }
-
 
 
 }

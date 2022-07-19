@@ -1,5 +1,7 @@
-            </div><!--.vg-main.vg-right-->
-        </div><!--.vg-carcass-->
+<?php foreach ($this->scripts as $script):?>
+    <script src="<?= $script ?>"></script>
+<?php endforeach; ?>
+
     </body>
 </html>
 

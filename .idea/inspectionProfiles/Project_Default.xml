@@ -1,0 +1,263 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AngularInaccessibleComponentMemberInAotMode" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AnonymousFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ChainedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ComposeMissingKeys" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConfusingFloatingPointLiteralJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ContinueStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ContinueStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssBrowserCompatibilityForProperties" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssConvertColorToHexInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssConvertColorToRgbInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CyclomaticComplexityJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="10" />
+    </inspection_tool>
+    <inspection_tool class="DebuggerStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DivideByZeroJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FlowJSCoverage" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="FlowJSError" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ForLoopReplaceableByWhileJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreLoopsWithoutConditions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="4" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="GjsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlNonExistentInternetResource" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlPresentationalElement" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HtmlRequiredSummaryAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HtmlRequiredTitleAttribute" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IfStatementWithTooManyBranchesJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="3" />
+    </inspection_tool>
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSEqualityComparisonWithCoercion.TS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSNonStrictModeUsed" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="1" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_includeAnonymousFunctions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestingDepthJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="5" />
+    </inspection_tool>
+    <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ObjectAllocationIgnoredJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="OverlyComplexArithmeticExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="6" />
+    </inspection_tool>
+    <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="3" />
+    </inspection_tool>
+    <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="1" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="ParametersPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="5" />
+    </inspection_tool>
+    <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpArrayFillCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpArrayFilterCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpArrayMapCanBeConvertedToLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpAssignmentReplaceableWithOperatorAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpAssignmentReplaceableWithPrefixExpressionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="EXTENSIONS" value="php,js,css,inc" />
+    </inspection_tool>
+    <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpClosureCanBeConvertedToShortArrowFunctionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpCompoundNamespaceDepthInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpConstantReassignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpConstructorStyleInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpCurlyBraceAccessSyntaxUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDeprecatedImplodeUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDisabledExtensionStubsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDuplicateArrayKeysInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDuplicateCaseInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpExpressionResultUnusedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpExpressionWithoutClarifyingParenthesesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFieldAssignmentTypeMismatchInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpForeachArrayIsUsedAsValueInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpForeachNestedOuterKeyValueVariablesConflictInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFormatFunctionParametersMismatchInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGotoIntoLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpHierarchyChecksInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpIllegalArrayKeyTypeInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpIllegalStringOffsetInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpIncludeInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpInvalidMagicMethodModifiersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLanguageLevelInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLongTypeFormInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayFillInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayFilterInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLoopCanBeConvertedToArrayMapInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMethodMayBeStaticInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMethodParametersCountMismatchInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingStrictTypesDeclarationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMissingVisibilityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpModifierOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpNestedTernaryExpressionUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpNewClassMissingParameterListInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpNonCanonicalElementsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpNonCompoundUseInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpNonStrictObjectEqualityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpOptionalBeforeRequiredParametersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpParamsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpPassByRefInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpRedundantCatchClauseInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSeparateElseIfInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpShortOpenTagInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSignatureMismatchDuringInheritanceInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSillyAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpStatementWithoutBracesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpStrictTypeCheckingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSuperClassIncompatibleWithInterfaceInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpSwitchCaseWithoutDefaultBranchInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpToStringImplementationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpToStringReturnInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpTraitsUseListInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedCallbackInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnitCoversFunctionWithoutScopeResolutionOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnitMissingTargetForTestInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnnecessaryParenthesesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnpackedArrayArgumentTypeMismatchInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnreachableStatementInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnusedAliasInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpVarUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpVariableVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpWrongCatchClausesOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpWrongForeachArgumentTypeInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpWrongStringConcatenationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PlatformDetectionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PointlessBitwiseExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreExpressionsContainingConstants" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProjectFingerprint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReuseOfLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlGotoInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlMissingColumnAliasesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlNamedArgumentsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StandardJS" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="30" />
+    </inspection_tool>
+    <inspection_tool class="StringLiteralBreaksHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreCatchBlocksWithComments" value="false" />
+    </inspection_tool>
+    <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="W3CssValidation" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCssVersion" value="css3svg" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+    </inspection_tool>
+    <inspection_tool class="XHTMLIncompatabilitiesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>

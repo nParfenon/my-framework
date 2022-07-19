@@ -3,7 +3,6 @@
 
 namespace core\base\controllers;
 
-
 trait BaseMethods
 {
 
@@ -55,12 +54,12 @@ trait BaseMethods
         exit;
     }
 
-    protected function writeLog($message,$file = "log.txt",$event = "Fault"){
+    protected function writeLog($message, $file = "log.txt", $event = "Fault"){
 
         $DataTime = new \DateTime();
 
         $str = $event .":".$DataTime->format("d-m-Y G:i:s") . "-" . $message . "\r\n";
 
-        file_put_contents("log/" . $file, $str, FILE_APPEND);
+        file_put_contents(LOG_FOLDER . $file, $str, FILE_APPEND);
     }
 }

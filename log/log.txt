@@ -1150,3 +1150,119 @@ Fault:09-01-2022 17:07:15-Неверное имя файла для подклю
 file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
 In line 34
 
+Fault:21-01-2022 9:14:40-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:16:00-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:17:01-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:17:03-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:17:05-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:18:14-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:18:16-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:18:56-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:20:50-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:22:20-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:21-01-2022 9:22:33-Class core\admin\controllers\Script.jsController does not exist
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 45
+
+Fault:24-01-2022 11:53:20-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:54:02-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:54:08-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:54:13-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:55:11-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:55:32-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:55:33-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:55:35-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:24-01-2022 11:55:41-Не корректная директория файла PATH
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 111
+
+Fault:30-01-2022 10:46:22-Отсутствует шаблон - header
+file D:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
+In line 97
+
+Fault:30-01-2022 13:01:21-Неверное имя файла для подключения! - core/user/controllers/IndexdController
+file D:\Nikita\OpenServer\domains\localhost\core\base\settings\internal_settings.php
+In line 35
+
+Fault:30-01-2022 17:11:06-Неверное имя файла для подключения! - core/user/controllers/SukaController
+file D:\Nikita\OpenServer\domains\localhost\core\base\settings\internal_settings.php
+In line 35
+
+Fault:19-07-2022 5:45:28-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:19-07-2022 5:47:18-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:19-07-2022 5:47:29-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:19-07-2022 5:48:47-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:19-07-2022 5:53:21-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:19-07-2022 5:53:52-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
