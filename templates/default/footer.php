@@ -1,1 +1,1 @@
-<div>ЭТО FOOTER</div>
+<div>ЭТО FOOTER1</div>
