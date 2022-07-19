@@ -1,6 +1,6 @@
 <?php
 
-defined("VG_ACCESS") or die('User Stop Please');
+defined("VG_ACCESS") or die('Access denied');
 
 const TEMPLATE="templates/default/";//шаблон сайта
 const ADMIN_TEMPLATE = "core/admin/views/";//шаблон админ панели
@@ -16,8 +16,12 @@ const QTY = 9; //кол-во товаров на странице/прогруж
 const QTY_LINKS = 3;
 
 const ADMIN_CSS_JS = [
-    "styles" => ["css/main.css"],
-    "scripts" => ["js/main.js"],
+    "styles" => [
+        "css/main.css",
+    ],
+    "scripts" => [
+        "js/main.js",
+    ],
 ];
 
 const USER_CSS_JS = [

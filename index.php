@@ -1,6 +1,6 @@
 <?php
 
-define("VG_ACCESS",true); //Константа безопасности
+define("VG_ACCESS", true); //Константа безопасности
 
 header("Content-Type:text/html; charset=utf-8"); //говорим браузеру пользователя, в какой кодировке будем отправлять данные
 
