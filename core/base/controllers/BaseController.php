@@ -13,13 +13,13 @@ abstract class BaseController
     protected $header;
     protected $content;
     protected $footer;
-    protected $Page; //ПОЛНОСТЬЮ СТРАНИЦА НАШЕГО САЙТА
+    protected $page; //ПОЛНОСТЬЮ СТРАНИЦА НАШЕГО САЙТА
 
-    protected $Errors;
+    protected $errors;
 
     protected $controller;
-    protected $InputMethod; //хранится метод, который собирает данные из БД
-    protected $OutputMethod; //имя метода, которое отвечает за подключение видов
+    protected $inputMethod; //хранится метод, который собирает данные из БД
+    protected $outputMethod; //имя метода, которое отвечает за подключение видов
     protected $parameters;
 
     protected $styles;
@@ -35,8 +35,8 @@ abstract class BaseController
 
             $args = [
                 "parameters" => $this->parameters,
-                "InputMethod" => $this->InputMethod,
-                "OutputMethod" => $this->OutputMethod,
+                "inputMethod" => $this->inputMethod,
+                "outputMethod" => $this->outputMethod,
             ];
 
             $object->invoke(new $controller, $args);
@@ -51,30 +51,30 @@ abstract class BaseController
 
         $this->parameters = $args["parameters"];
 
-        $InputData = $args["InputMethod"];
-        $OutputData = $args["OutputMethod"];
+        $inputData = $args["inputMethod"];
+        $outputData = $args["outputMethod"];
 
-        $data = $this->$InputData();
+        $data = $this->$inputData();
 
-        if (method_exists($this,$OutputData)){ //если метод существует
+        if (method_exists($this,$outputData)){ //если метод существует
 
-            $page = $this->$OutputData($data);
+            $page = $this->$outputData($data);
             if($page) {
-                $this->Page = $page;
+                $this->page = $page;
             }
 
         }elseif ($data) {
-            $this->Page = $data;
+            $this->page = $data;
         }
 
-        if ($this->Errors){
-            $this->WriteLog($this->Errors);
+        if ($this->errors){
+            $this->writeLog($this->errors);
         }
-        $this->GetPage();
+        $this->getPage();
 
     }
 
-    protected function Render($path = "", $parameters = []){
+    protected function render($path = "", $parameters = []){
 
         extract($parameters);
 
@@ -83,7 +83,7 @@ abstract class BaseController
             $class = new \ReflectionClass($this);
 
             $space = str_replace("\\","/",$class->getNamespaceName()."\\");//возвращает namespace класса
-            $routes = Settings::Get("routes");
+            $routes = Settings::get("routes");
 
             if ($space === $routes["user"]["path"]){$template = TEMPLATE;}
             else {$template = ADMIN_TEMPLATE;}
@@ -101,12 +101,12 @@ abstract class BaseController
 
     }
 
-    protected function GetPage(){
+    protected function getPage(){
 
-        if (is_array($this->Page)){ //Если массив
-            foreach ($this->Page as $block) echo $block;
+        if (is_array($this->page)){ //Если массив
+            foreach ($this->page as $block) echo $block;
         }else{ //Если строка
-            echo $this->Page;
+            echo $this->page;
         }
 
         exit;

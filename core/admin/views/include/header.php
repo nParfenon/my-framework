@@ -30,14 +30,14 @@
                     <div>
                         <img src="<?= PATH.ADMIN_TEMPLATE ?>img/search.png" alt="">
                     </div>
-                    <form method="post" action="<?= PATH.\core\base\settings\Settings::Get("route")["admin"]["alias"] ?>/search" autocomplete="off">
+                    <form method="post" action="<?= PATH.\core\base\settings\Settings::get("route")["admin"]["alias"] ?>/search" autocomplete="off">
                         <input type="text" name="search" class="vg-input vg-text">
                         <div class="vg-element vg-firm-background-color4 vg-box-shadow search_links search_res"></div>
                     </form>
                 </div>
             </div>
 
-            <a href="<?= PATH.\core\base\settings\Settings::Get("route")["admin"]["alias"] ?>/createsitemap" class="vg-element vg-box-shadow sitemap-button">
+            <a href="<?= PATH.\core\base\settings\Settings::get("route")["admin"]["alias"] ?>/createsitemap" class="vg-element vg-box-shadow sitemap-button">
                             <span class="vg-text vg-firm-color1">
                                 Create sitemap
                             </span>

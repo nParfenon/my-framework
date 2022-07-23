@@ -10,7 +10,7 @@ class IndexController extends BaseController
 {
     protected function InputData(){
 
-        $redirect = PATH. Settings::Get("routes")["admin"]["alias"]."/show";
+        $redirect = PATH. Settings::get("routes")["admin"]["alias"]."/show";
 
         $this->redirect($redirect);
 

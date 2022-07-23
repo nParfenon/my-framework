@@ -34,10 +34,10 @@ abstract class BaseAdmin extends BaseController
             $this->model = Models::instance();
         }
         if (!$this->menu){
-            $this->menu = Settings::Get("projectTables");
+            $this->menu = Settings::get("projectTables");
         }
         if (!$this->AdminPath){
-            $this->AdminPath = PATH . Settings::Get("routes")["admin"]["alias"] . "/";
+            $this->AdminPath = PATH . Settings::get("routes")["admin"]["alias"] . "/";
         }
 
         $this->sendNoCacheHeaders();
@@ -73,7 +73,7 @@ abstract class BaseAdmin extends BaseController
             if ($this->parameters){
                 $this->table = array_keys($this->parameters)[0];
             }else{
-                $this->table = Settings::Get("defaultTable");
+                $this->table = Settings::get("defaultTable");
             }
 
         }
@@ -98,9 +98,9 @@ abstract class BaseAdmin extends BaseController
         }
 
         if (!$settings){
-            $path = Settings::Get("expansion");
+            $path = Settings::get("expansion");
         }elseif(is_object($settings)){
-            $path= $settings::Get("expansion");
+            $path= $settings::get("expansion");
         }else{
             $path = $settings;
         }

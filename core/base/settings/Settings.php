@@ -30,7 +30,7 @@ class Settings
 
         "user" => [
             "path" => "core/user/controllers/", //namespace :)
-            "hrUrl"=> true,
+            "hrUrl"=> false,
             "routes" => [
             ]
         ],
@@ -56,7 +56,7 @@ class Settings
         "textarea" => ["content","keywords"]
     ];
 
-    static public function Get($property){ //Получение свойств класса
+    static public function get($property){ //Получение свойств класса
         return self::instance()->$property;
     }
 
@@ -64,7 +64,7 @@ class Settings
 
         foreach ($this as $name => $item){
 
-            $property = $class::Get($name);
+            $property = $class::get($name);
 
             if (!$property) $baseProperties[$name] = $this->$name;
 

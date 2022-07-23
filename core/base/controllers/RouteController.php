@@ -25,7 +25,7 @@ class RouteController extends BaseController
                 $this->redirect(rtrim($address_str,"/"), 301);
             }
 
-            $this->routes = Settings::Get("routes");
+            $this->routes = Settings::get("routes");
 
             if (!$this->routes){throw new RouteException("Отсутсвуют маршруты в базовых нстройках", 1);}//если маршруты не были получены
 
@@ -44,7 +44,7 @@ class RouteController extends BaseController
                     if(file_exists($_SERVER['DOCUMENT_ROOT'] . PATH . $pluginsSettings . ".php" )){
                         $pluginsSettings = str_replace("/","\\", $pluginsSettings);
 
-                        $this->routes = $pluginsSettings::Get('routes');
+                        $this->routes = $pluginsSettings::get('routes');
                     }
 
                     $dir = $this->routes["plugins"]['dir'] ? "/". $this->routes["plugins"]['dir'] ."/" : "/"; //$dir создан для удобства строения директорий (по сути не нужен)
@@ -132,8 +132,8 @@ class RouteController extends BaseController
         }
 
 
-        $this->InputMethod = $route[1] ? $route[1] : $this->routes['default']['InputMethod'];
-        $this->OutputMethod = $route[2] ? $route[2] : $this->routes['default']['OutputMethod'];
+        $this->inputMethod = $route[1] ? $route[1] : $this->routes['default']['InputMethod'];
+        $this->outputMethod = $route[2] ? $route[2] : $this->routes['default']['OutputMethod'];
 
         return;
     }

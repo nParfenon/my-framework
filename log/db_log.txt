@@ -270,3 +270,7 @@ Fault:07-01-2022 14:10:12-Ошибка в SQL запросе: SHOW COLUMNS FROM 
 file D:\Nikita\OpenServer\OSPanel\domains\localhost\core\base\models\BaseModels.php
 In line 35
 
+Fault:21-07-2022 9:56:31-Ошибка подключения к БД: 1045 Access denied for user 'root'@'localhost' (using password: NO)
+file E:\Nikita\OpenServer\domains\localhost\core\base\models\BaseModels.php
+In line 19
+
