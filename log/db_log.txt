@@ -274,3 +274,15 @@ Fault:21-07-2022 9:56:31-Ошибка подключения к БД: 1045 Acces
 file E:\Nikita\OpenServer\domains\localhost\core\base\models\BaseModels.php
 In line 19
 
+Fault:24-07-2022 13:00:52-Ошибка подключения к БД: 1045 Access denied for user 'root'@'localhost' (using password: NO)
+file E:\Nikita\OpenServer\domains\localhost\core\base\models\BaseModels.php
+In line 19
+
+Fault:24-07-2022 13:01:04-Ошибка подключения к БД: 1049 Unknown database 'loca1l'
+file E:\Nikita\OpenServer\domains\localhost\core\base\models\BaseModels.php
+In line 19
+
+Fault:26-07-2022 17:35:16-Ошибка в SQL запросе: SELECT products.name FROM products  WHERE products.id IN ('1') AND products.0 IN ('Телефон')  ORDER BY products.name DESC LIMIT 1-1054 Unknown column 'products.0' in 'where clause'
+file E:\Nikita\OpenServer\domains\localhost\core\base\models\BaseModels.php
+In line 35
+

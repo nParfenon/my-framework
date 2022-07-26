@@ -92,7 +92,7 @@ abstract class BaseModels extends BaseModelMethods
         if (!$where) {$new_where = true;}
         else{$new_where = false;}
 
-        $join_arr = $this->createJoin($set,$table);
+        $join_arr = $this->createJoin($set,$table,$new_where);
 
         $fields .= $join_arr["fields"];
         $join = $join_arr["join"];

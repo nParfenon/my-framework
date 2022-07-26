@@ -1294,3 +1294,11 @@ Fault:22-07-2022 9:00:53-Method core\user\controllers\IndexController::request()
 file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\BaseController.php
 In line 45
 
+Fault:23-07-2022 16:33:18-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+
+Fault:23-07-2022 16:52:42-Не корректная директория файла PATH
+file E:\Nikita\OpenServer\domains\localhost\core\base\controllers\RouteController.php
+In line 110
+

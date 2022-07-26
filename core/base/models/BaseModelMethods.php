@@ -38,8 +38,7 @@ abstract class BaseModelMethods
 
         if (is_array($set["order"]) && !empty($set["order"])){
 
-            $set["order_direction"] = (is_array($set["order_direction"]) && !empty($set["order_direction"]))
-                ? $set["order_direction"] : ["ASC"];
+            $set["order_direction"] = (is_array($set["order_direction"]) && !empty($set["order_direction"])) ? $set["order_direction"] : ["ASC"];
 
             $order_by = "ORDER BY ";
 
